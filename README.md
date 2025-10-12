@@ -2,9 +2,9 @@
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 <!-- GitHub Stats -->
 <p align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzbeydogan&show_icons=true&locale=en&layout=compact" alt="yavuzbeydogan" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybeydogan33&show_icons=true&locale=en&layout=compact" alt="ybeydogan33" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yavuzbeydogan&show_icons=true&locale=en" alt="yavuzbeydogan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybeydogan33&show_icons=true&locale=en" alt="ybeydogan33" /></p>
 
 </p>
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/yavuzbeydogan/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavuzbeydogan" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/ybeydogan33/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ybeydogan33" height="30" width="40" />
   </a>
 </p>
 
@@ -62,11 +62,11 @@
 
 
 <!-- Snake Contribution Animation
-![snake gif](https://github.com/yavuzbeydogan/yavuzbeydogan/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ybeydogan33/ybeydogan33/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yavuzbeydogan/yavuzbeydogan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yavuzbeydogan/yavuzbeydogan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yavuzbeydogan/yavuzbeydogan/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybeydogan33/ybeydogan33/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybeydogan33/ybeydogan33/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ybeydogan33/ybeydogan33/output/github-contribution-grid-snake.svg">
 </picture>
  -->
