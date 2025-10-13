@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yavuz Beydogan</h1>
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybeydogan33&show_icons=true&locale=en" alt="ybeydogan33" /></p>
-<p align="center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybeydogan33&show_icons=true&locale=en&layout=compact" alt="ybeydogan33" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ybeydogan33&show_icons=true&locale=en" alt="ybeydogan33" /></p>
+
+<p align="right">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybeydogan33&show_icons=true&locale=en&layout=compact" alt="ybeydogan33" /></p>
 
 
 
 </p>
-
-- Building robust back-end systems with .Net.
-- Learning more about with Angular, Javascript, HTML, and CSS for UI development 
-- Contact me at yavuzalp@beydogan.com for collaborations or projects.
-
-
-
-
-
+<br><br><br><br><br><br><br>
+<p>
+- Building robust back-end systems with .Net.<br>
+- Learning more about with Angular, Javascript, HTML, and CSS for UI development <br>
+- Contact me at yavuzalp@beydogan.com for collaborations or projects.<br>
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ybeydogan33/" target="_blank">
