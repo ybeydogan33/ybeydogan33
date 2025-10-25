@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer focused on mastering new technologies and creating impactful solutions</h3>
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ybeydogan33&show_icons=true&locale=en&layout=compact" alt="ybeydogan33" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybeydogan33&show_icons=true&locale=en" alt="ybeydogan33" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ybeydogan33&show_icons=true&locale=en" alt="ybeydogan33" /></p>
 
 <p align="center">
 
